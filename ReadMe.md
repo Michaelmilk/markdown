@@ -13,7 +13,7 @@
 
 ## Skills
 
-* [C# (==Net framework 4.6.1==)](https://docs.microsoft.com/en-us/dotnet/csharp/index)
+* [C# (<mark>Net framework 4.6.1</mark>)](https://docs.microsoft.com/en-us/dotnet/csharp/index)
 * [OWIN](https://docs.microsoft.com/en-us/aspnet/web-api/overview/hosting-aspnet-web-api/use-owin-to-self-host-web-api)
 * [Web API 2](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
 * [EntityFrameWork 6](https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/)
