@@ -33,43 +33,54 @@
   * Constants
   * Config
   * App.Config
-
 * OnboardingToolDataProvider
 
   * DbDataProvider
   * Db Migration files
-
 * OnboardingToolOwinService
 
   * Web API
   * OWIN Service
   * Hangfire Dashboard
   * Autofac
-
 * OnboardingToolServer
 
   * StartUp project(==start OWIN Service and Worker Scheduler==)
-
 * OnboardingToolService
 
   * business logic of  workers
-
 * OnboardingToolWorker
 
   * Workers
   * Parsers
   * Helpers
-
 * OnboardingToolScheduler
 
   * Autofac
   * Hangfire 
   * Configurable worker schedulers
 
-  
 
-  ## Work flow
 
-  
+## Work flow
 
-  
+``` flow
+
+st=>start: Start
+op=>operation: Your Operation
+web API=>operation: Web API
+service=>operation: Business logic service
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+st->service
+cond(yes)->web API->e
+cond(no)->op
+service->e
+```
+
+
+
+
+
