@@ -1,6 +1,6 @@
 # Prerequisite
 
-1. Install Visual Studio 2017 (<span style="color:yellow">with Net Framework 4.6.1</span>)
+1. Install Visual Studio 2017 (<span style="color:yellow;">with Net Framework 4.6.1</span>)
 2. Install SQL server 2014 in local machine(==For local development, debug and test==)
 
 
