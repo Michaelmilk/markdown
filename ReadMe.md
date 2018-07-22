@@ -3,7 +3,13 @@
 1. Install Visual Studio 2017 (**with Net Framework 4.6.1**)
 2. Install SQL server 2014 in local machine(**For local development, debug and test**)
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
 
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 
 ***
 
