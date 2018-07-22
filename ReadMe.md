@@ -1,7 +1,7 @@
 # Prerequisite
 
-1. Install Visual Studio 2017 (<span style="color:yellow;">with Net Framework 4.6.1</span>)
-2. Install SQL server 2014 in local machine(==For local development, debug and test==)
+1. Install Visual Studio 2017 (**with Net Framework 4.6.1**)
+2. Install SQL server 2014 in local machine(**For local development, debug and test**)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Skills
 
-* [C# (<mark>Net framework 4.6.1</mark>)](https://docs.microsoft.com/en-us/dotnet/csharp/index)
+* [C# (**Net framework 4.6.1**)](https://docs.microsoft.com/en-us/dotnet/csharp/index)
 * [OWIN](https://docs.microsoft.com/en-us/aspnet/web-api/overview/hosting-aspnet-web-api/use-owin-to-self-host-web-api)
 * [Web API 2](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)
 * [EntityFrameWork 6](https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/)
